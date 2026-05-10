@@ -52,3 +52,4 @@ Applied a **QA-First methodology** to a retail dataset of 12,000+ records. Built
 
 ### ⚡ Fun Fact
 I spent a 13-year break from the workforce raising my children, during which I never lost my passion for technology. I am now back and fully committed to the world of AI and Data Science!
+
