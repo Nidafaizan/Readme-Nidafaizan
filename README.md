@@ -28,6 +28,16 @@ Applied a **QA-First methodology** to a retail dataset of 12,000+ records. Built
 #### 2. [Predictive Maintenance for Software Defects](YOUR_LINK_HERE)
 *(Coming Soon)* Leveraging historical bug tracking data to predict high-risk modules using Machine Learning classification models.
 
+#### 1. [Automated Retail Data Quality Framework](LINK_TO_RETAIL_REPO)
+*Applied a **QA-First methodology** to a retail dataset of 12,000+ records. Built a custom Python/Pandas validator to identify, quarantine, and report "Data Defects," ensuring high-integrity inputs for analytics.*
+* **Key Skills:** Data Cleaning, Boolean Masking, Root Cause Analysis (RCA).
+
+#### 2. [Loan Approval Prediction System](LINK_TO_LOAN_REPO)
+*Developed a Binary Classification model to automate financial risk assessment. This project demonstrates the ability to handle imbalanced datasets and perform feature engineering to predict loan eligibility with high precision.*
+* **Key Skills:** Scikit-Learn, Random Forest, Imbalanced Data (SMOTE), Model Validation.
+
+---
+
 ---
 
 ### 📫 Connect with Me
