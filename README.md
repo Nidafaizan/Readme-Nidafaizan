@@ -7,14 +7,17 @@ I am a Technology Professional with **7 years of experience in Software Quality 
 
 ### 🛠️ My Tech Stack
 
-**Languages & Core:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+**Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Data Science & Analytics:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+**Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-**Quality & Automation:** ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
+**Quality & Automation**
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
